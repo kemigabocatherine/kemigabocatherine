@@ -6,7 +6,8 @@
 - 😄 Fun-fact: I love working in teams.
 
 ## 🤝 Contact me
-
+[Linkedin] (https://www.linkedin.com/in/catherine-kemigabo-2b9b1a221/)
+[Twitter] (https://twitter.com/KemigaboCather1)
 
 ## ⚖️ Cathy's Stats
 

@@ -6,7 +6,7 @@
 - 😄 Fun-fact: I love working in teams.
 
 ## 🤝 Contact me
-[1]: http://www.twitter.com/carlsednaoui
+[1]: [http://www.twitter.com/carlsednaoui](https://github.com/jsug9/jsug9/blob/main/README.md)
 
 ## ⚖️ Cathy's Stats
 

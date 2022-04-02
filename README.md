@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there👋 I am Catherine :smiley
 
-<!--
-**kemigabocatherine/kemigabocatherine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I am currently studying at Microverse
+- 🌱 I’m currently learning JavaScript
+- 💬 Ask me about anything. Happy to help:smiley:
+- 😄 Fun-fact: I love working in teams.
 
-Here are some ideas to get you started:
+## Contact me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Cathy's Stats
+
+![Cathy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kemigabocatherine&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kemigabocatherine&hide=shell,ruby&layout=compact&theme=dark)](https://github.com/kemigabocatherine/github-readme-stats)

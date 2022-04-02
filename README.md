@@ -6,7 +6,7 @@
 - 😄 Fun-fact: I love working in teams.
 
 ## 🤝 Contact me
-http://i.imgur.com/tXSoThF.png
+[1.1]: http://i.imgur.com/tXSoThF.png
 
 ## ⚖️ Cathy's Stats
 

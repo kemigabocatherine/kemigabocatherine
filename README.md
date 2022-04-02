@@ -9,6 +9,6 @@
 
 ## Cathy's Stats
 
-![Cathy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kemigabocatherine&show_icons=true&theme=navyblue)
+![Cathy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kemigabocatherine&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kemigabocatherine&hide=shell,ruby&layout=compact&theme=navyblue)](https://github.com/kemigabocatherine/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kemigabocatherine&hide=shell,ruby&layout=compact&theme=radical)](https://github.com/kemigabocatherine/github-readme-stats)

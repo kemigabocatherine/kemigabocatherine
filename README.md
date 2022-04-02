@@ -1,4 +1,4 @@
-# Hi there👋 I am Catherine :smiley
+# Hi there👋 I am Catherine :happy:
 
 - 🔭 I am currently studying at Microverse
 - 🌱 I’m currently learning JavaScript

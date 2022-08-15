@@ -1,9 +1,9 @@
 # Hi there 👋 I am Catherine 😃
 
 - 🔭 I am currently studying at Microverse
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently working on my final project
 - 💬 Ask me about anything. Happy to help:smiley:
-- 😄 Fun-fact: I love working in teams.
+- 😄 Fun-fact: I am quite chatty.
 
 ## 🤝 Contact me
 :bust_in_silhouette: [Linkedin](https://www.linkedin.com/in/catherine-kemigabo-2b9b1a221/)

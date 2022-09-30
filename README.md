@@ -1,7 +1,7 @@
 # Hi there 👋 I am Catherine 😃
 
 - 💻 I am a certified software developer.
-- 🔭 I’m currently open for work.
+- 🔭 I’m currently open to work.
 - 💬 Ask me about anything. Happy to help:smiley:
 - 😄 `Fun-fact`: I am quite chatty :blush:
 

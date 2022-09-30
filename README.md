@@ -3,7 +3,7 @@
 - 💻 I am a certified software developer.
 - 🔭 I’m currently open for work.
 - 💬 Ask me about anything. Happy to help:smiley:
-- 😄 Fun-fact: I am quite chatty :blush:
+- 😄 `Fun-fact`: I am quite chatty :blush:
 
 ## 🤝 Contact me
 :bust_in_silhouette: [Linkedin](https://www.linkedin.com/in/catherine-kemigabo-2b9b1a221/)
